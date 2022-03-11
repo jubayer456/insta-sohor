@@ -17,6 +17,16 @@ textarea {
   font-family: 'Roboto', sans-serif;
 }
 
+/* bonus content */
+#bonus{
+  margin: auto;
+  width: 75%;
+  padding: 2%;
+}
+#bonus h4{
+  margin: auto;
+  width: 75%;
+}
 /* Vars */
 :root {
   --primary: hsl(0, 0%, 100%);
